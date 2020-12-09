@@ -12,6 +12,8 @@ permalink: /cv/
 * *2009 - 2013*: **Bachelor of science in mathematics**, ETH Zürich (CH)
 
 # Professional experience
+* *from 2021*:&nbsp;&nbsp;&nbsp;&nbsp;**Ziemer Ophthalmic Systems AG**, Software Engineer Numerical Methods
+
 * *2016*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SCOR Switzerland AG**, Trainee (7 months)
 
 * *2013*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bombardier Transporation AG**, Internship (6 months)
