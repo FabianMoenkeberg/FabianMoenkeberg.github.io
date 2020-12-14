@@ -27,6 +27,13 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+header_pages:
+ - cv.md
+ - publications.md
+ - talks.md
+ - code.md
+ - private.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
