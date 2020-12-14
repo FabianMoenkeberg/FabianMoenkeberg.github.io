@@ -3,7 +3,7 @@ layout: page
 title: Activities
 permalink: /private/
 ---
-In my free time, I like various outdoor activities:
+I like to spend my free time doing various outdoor activities:
 
 <p align="center">
   <img width="600" src="/images/FabianSlackBosnien_gutjpg.jpg">
