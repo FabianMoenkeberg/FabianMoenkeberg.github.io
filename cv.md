@@ -23,6 +23,7 @@ permalink: /cv/
 * *2016 - 2020*: **Supervision of student projects**, EPFL Lausanne (CH)
 
 # Awards
+* *2020*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MDTA** - Mathematics Doctoral Thesis Award, EPFL Lausanne
 
 # Personal activities
 * **Volleyball:** active player up to the 1. league, referee, coach for children and adults
