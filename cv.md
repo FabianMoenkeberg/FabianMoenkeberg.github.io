@@ -24,7 +24,7 @@ permalink: /cv/
 
 # Awards
 * *2020*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MDTA** - Mathematics Doctoral Thesis Award, EPFL Lausanne
-* *2020*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EPFL Doctoral Program Thesis Distinction (8%), EPFL Lausanne
+* *2020*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**EPFL Doctoral Program Thesis Distinction (8%)**, EPFL Lausanne
 
 # Personal activities
 * **Volleyball:** active player up to the 1. league, referee, coach for children and adults
