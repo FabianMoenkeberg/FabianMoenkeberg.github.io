@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Education
-* *2016 - 2020*: **PhD in mathematics**, EPFL Lausanne (CH)
+* *2016 - 2020*: **PhD in mathematics** "with distinction", EPFL Lausanne (CH)
 
 * *2013 - 2015*: **Master of science in scientific computing**, TU Berlin (DE)
 
